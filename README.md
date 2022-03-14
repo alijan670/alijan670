@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alijan670
+- 👋 Hi, I’m Alijan
 - 👀 I’m interested in web deveploment, cyber security, garhphic designing
 - 🌱 I’m currently learning web deveploment
 - 💞️ I’m looking to collaborate on diffrent skils
