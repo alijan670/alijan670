@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alijan
-- 👀 I’m interested in web deveploment, cyber security, garhphic designing
-- 🌱 I’m currently learning web deveploment
-- 💞️ I’m looking to collaborate on diffrent skils
-- 📫 If you wana contect me this is my email id: alijan7327670@gmail.com
+- 👀 I’m interested in Web Development, App Development, Cyber Security, AI
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on different skills
+- 📫 If you want to contact me this is my email ID: alijan7327670@gmail.com
 
 <!---
 alijan670/alijan670 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
